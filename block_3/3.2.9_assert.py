@@ -3,3 +3,4 @@ def test_substring(full_string, substring):
 
 
 test_substring('1', '1')
+print('4')
