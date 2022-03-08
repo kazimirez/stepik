@@ -5,6 +5,7 @@ import time
 import math
 
 
+
 def calc(x):
     return str(math.log(int(time.time())))
 
@@ -31,6 +32,7 @@ def browser():
                                    ])
 class TestLogin:
     def test_functional(self, browser, links):
+        final = ''
         link = links
         browser.get(link)
 
@@ -43,5 +45,6 @@ class TestLogin:
         if the_hint.text == "Correct!":
             print('ok')
         else:
-            print(the_hint.text)
+            final += the_hint.text
+        print(final)
 
