@@ -20,7 +20,7 @@ def browser():
     print("\nquit browser..")
     browser.quit()
 
-
+#some text
 @pytest.mark.parametrize('links', ["https://stepik.org/lesson/236895/step/1",
                                    "https://stepik.org/lesson/236896/step/1",
                                    'https://stepik.org/lesson/236897/step/1',
