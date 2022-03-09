@@ -45,3 +45,4 @@ class TestMainPage2():
         print('start test basket 2')
         self.browser.get(link)
         self.browser.find_element_by_css_selector(".basket-mini .btn-group > a")
+#text
