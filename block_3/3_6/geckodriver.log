@@ -1,0 +1,45 @@
+1646812615601	geckodriver	INFO	Listening on 127.0.0.1:2807
+1646812618673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofileBPoPha"
+1646812619118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofileBPoPha\\search.json.mozlz4", (void 0)))
+1646812620634	Marionette	INFO	Listening on port 2815
+1646812620716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1646812622787	Marionette	INFO	Stopped listening on port 2815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kazimir\AppData\Local\Temp\rust_mozprofileBPoPha\protections.sqlite
+1646814427676	geckodriver	INFO	Listening on 127.0.0.1:3450
+1646814430741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofileH8lhbp"
+1646814431301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofileH8lhbp\\search.json.mozlz4", (void 0)))
+1646814432838	Marionette	INFO	Listening on port 3458
+1646814432896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646814466183	Marionette	INFO	Stopped listening on port 3458
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+mozprofile60hPdY"
+1646814441023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofile60hPdY\\search.json.mozlz4", (void 0)))
+1646814443058	Marionette	INFO	Listening on port 3527
+1646814443314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646814469345	Marionette	INFO	Stopped listening on port 3527
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+mozprofileVFxyUI"
+1646814451234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofileVFxyUI\\search.json.mozlz4", (void 0)))
+1646814452965	Marionette	INFO	Listening on port 3596
+1646814453049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646814465138	Marionette	INFO	Stopped listening on port 3596
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1646814803875	geckodriver	INFO	Listening on 127.0.0.1:3702
+1646814806951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofile1uMBGq"
+1646814807359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofile1uMBGq\\search.json.mozlz4", (void 0)))
+1646814808908	Marionette	INFO	Listening on port 3710
+1646814809005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1646814810316	Marionette	INFO	Stopped listening on port 3710
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"

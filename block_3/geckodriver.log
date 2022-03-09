@@ -1,0 +1,13 @@
+1646807898676	geckodriver	INFO	Listening on 127.0.0.1:2106
+1646807901764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofile1ZE6Cg"
+1646807903050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kazimir\\AppData\\Local\\Temp\\rust_mozprofile1ZE6Cg\\search.json.mozlz4", (void 0)))
+1646807905645	Marionette	INFO	Listening on port 2114
+1646807905962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1646807907361	Marionette	INFO	Stopped listening on port 2114
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kazimir\AppData\Local\Temp\rust_mozprofile1ZE6Cg\protections.sqlite

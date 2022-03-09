@@ -1,0 +1,6 @@
+3/4 09:15:15.804  vendor: GenuineIntel
+3/4 09:15:15.804  branding: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+3/4 09:15:15.804  features: lahf64 cmpxchg16b sse sse2 sse3 ssse3 sse41 sse42 avx avx2 aesni clmul rdrand 
+3/4 09:15:15.804  sockets: 1
+3/4 09:15:15.804  cores: 4
+3/4 09:15:15.804  threads: 4
